@@ -1,4 +1,3 @@
-// #include "HashTable.h"
 #include "HashTable.hpp"
 int main() {
     int a = 2;
